@@ -1,0 +1,558 @@
+{
+ "note": "flavor axes removed from dishes.json on 2026-07-05 (owner decision: too stall-dependent); archived here in case they're ever wanted back",
+ "flavor": {
+  "pho": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "bun-bo-hue": {
+   "spice": 3,
+   "sweet": 0,
+   "sour": 1,
+   "funk": 2,
+   "rich": 2
+  },
+  "bun-cha-ca": {
+   "spice": 1,
+   "sweet": 2,
+   "sour": 2,
+   "funk": 1,
+   "rich": 1
+  },
+  "mi-quang": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 2
+  },
+  "cao-lau": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "bun-rieu": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 2,
+   "funk": 2,
+   "rich": 1
+  },
+  "bun-mam": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 3,
+   "rich": 2
+  },
+  "bun-ca": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 2,
+   "funk": 1,
+   "rich": 1
+  },
+  "banh-canh-cua": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 3
+  },
+  "hu-tieu-nam-vang": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "mien-ga": {
+   "spice": 0,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 0,
+   "rich": 0
+  },
+  "banh-da-cua": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 1,
+   "rich": 2
+  },
+  "bun-thit-nuong": {
+   "spice": 1,
+   "sweet": 2,
+   "sour": 1,
+   "funk": 0,
+   "rich": 2
+  },
+  "bun-cha": {
+   "spice": 1,
+   "sweet": 2,
+   "sour": 2,
+   "funk": 0,
+   "rich": 2
+  },
+  "bun-dau-mam-tom": {
+   "spice": 1,
+   "sweet": 0,
+   "sour": 1,
+   "funk": 3,
+   "rich": 2
+  },
+  "mi-xao": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "mit-tron": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 1
+  },
+  "hu-tieu-kho": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "pho-xao": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "com-tam": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 1,
+   "funk": 0,
+   "rich": 3
+  },
+  "com-ga-hoi-an": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 2,
+   "funk": 0,
+   "rich": 1
+  },
+  "com-hen": {
+   "spice": 2,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 2,
+   "rich": 1
+  },
+  "com-nieu": {
+   "spice": 0,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "com-chien": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "com-binh-dan": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 1,
+   "rich": 2
+  },
+  "xoi": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "chao-long": {
+   "spice": 1,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 1,
+   "rich": 2
+  },
+  "banh-trang-cuon-thit-heo": {
+   "spice": 1,
+   "sweet": 0,
+   "sour": 1,
+   "funk": 3,
+   "rich": 2
+  },
+  "banh-xeo": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 0,
+   "rich": 3
+  },
+  "banh-khoai": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 3
+  },
+  "goi-cuon": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 0
+  },
+  "cha-gio": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 3
+  },
+  "nem-lui": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 2
+  },
+  "nem-nuong": {
+   "spice": 1,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "nem-chua": {
+   "spice": 2,
+   "sweet": 1,
+   "sour": 3,
+   "funk": 2,
+   "rich": 1
+  },
+  "bo-bia": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "goi-ca-nam-o": {
+   "spice": 2,
+   "sweet": 1,
+   "sour": 3,
+   "funk": 2,
+   "rich": 1
+  },
+  "banh-beo": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 1
+  },
+  "banh-bot-loc": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "banh-nam": {
+   "spice": 0,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "banh-it": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "banh-can": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "banh-khot": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 3
+  },
+  "banh-cuon": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 0,
+   "rich": 1
+  },
+  "banh-uot": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 0,
+   "rich": 1
+  },
+  "banh-hoi": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "banh-gio": {
+   "spice": 0,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "banh-bao": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "banh-trang-nuong": {
+   "spice": 2,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 2
+  },
+  "banh-trang-tron": {
+   "spice": 2,
+   "sweet": 1,
+   "sour": 2,
+   "funk": 1,
+   "rich": 1
+  },
+  "be-thui-cau-mong": {
+   "spice": 1,
+   "sweet": 0,
+   "sour": 1,
+   "funk": 3,
+   "rich": 2
+  },
+  "thit-kho-tau": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 3
+  },
+  "ca-kho-to": {
+   "spice": 1,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 1,
+   "rich": 3
+  },
+  "bo-la-lot": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 2
+  },
+  "cha-ca-la-vong": {
+   "spice": 1,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 2,
+   "rich": 2
+  },
+  "ga-nuong": {
+   "spice": 1,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "lau": {
+   "spice": 2,
+   "sweet": 1,
+   "sour": 2,
+   "funk": 1,
+   "rich": 2
+  },
+  "banh-mi": {
+   "spice": 1,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 1,
+   "rich": 2
+  },
+  "oc-hut": {
+   "spice": 3,
+   "sweet": 1,
+   "sour": 0,
+   "funk": 1,
+   "rich": 1
+  },
+  "quan-oc": {
+   "spice": 2,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 1,
+   "rich": 1
+  },
+  "goi-du-du": {
+   "spice": 2,
+   "sweet": 2,
+   "sour": 2,
+   "funk": 1,
+   "rich": 0
+  },
+  "trung-vit-lon": {
+   "spice": 1,
+   "sweet": 0,
+   "sour": 1,
+   "funk": 1,
+   "rich": 2
+  },
+  "bot-chien": {
+   "spice": 0,
+   "sweet": 1,
+   "sour": 1,
+   "funk": 0,
+   "rich": 2
+  },
+  "che": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "che-bap": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "che-troi-nuoc": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "che-xoa-xoa": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "tau-hu": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 1
+  },
+  "sua-chua-nep-cam": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 2,
+   "funk": 1,
+   "rich": 1
+  },
+  "kem-bo": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 3
+  },
+  "banh-flan": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "ca-phe-sua-da": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "ca-phe-trung": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 3
+  },
+  "bac-xiu": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "ca-phe-muoi": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 2
+  },
+  "nuoc-mia": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 1,
+   "funk": 0,
+   "rich": 0
+  },
+  "sinh-to": {
+   "spice": 0,
+   "sweet": 3,
+   "sour": 1,
+   "funk": 0,
+   "rich": 2
+  },
+  "tra-da": {
+   "spice": 0,
+   "sweet": 0,
+   "sour": 0,
+   "funk": 0,
+   "rich": 0
+  },
+  "nuoc-sam": {
+   "spice": 0,
+   "sweet": 2,
+   "sour": 0,
+   "funk": 0,
+   "rich": 0
+  }
+ }
+}

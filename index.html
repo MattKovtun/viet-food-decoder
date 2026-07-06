@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#faf8f5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161513" media="(prefers-color-scheme: dark)">
+<title>Viet Food Decoder — Da Nang edition</title>
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+<header>
+  <div class="brand"><h1>Viet Food Decoder</h1><span>Da Nang edition</span></div>
+  <input id="q" type="search" placeholder="Search: mi quang, pork, noodle…" autocomplete="off" autocapitalize="off">
+  <div class="legend">
+    <span><b class="lg-base">base</b></span><span><b class="lg-protein">protein</b></span>
+    <span><b class="lg-method">method</b></span><span><b class="lg-place">place</b></span>
+    <span><b class="lg-form">form</b></span>
+    <span><b class="vstar">★</b> verified photo</span>
+  </div>
+  <div class="chiprow" id="catRow"></div>
+  <div class="chiprow">
+    <button class="chip" id="mildChip">🌶 mild</button>
+    <button class="chip" id="filtersBtn">Filters</button>
+  </div>
+</header>
+
+<div id="drawer">
+  <h3>Spice</h3>
+  <p class="hint">heat as served; dishes marked "varies" depend on the stall</p>
+  <div id="spiceRow"></div>
+  <h3>Ingredients</h3>
+  <p class="hint">tap once to <b style="color:var(--inc)">require</b>, twice to <b style="color:var(--exc)">exclude</b>, three times to clear</p>
+  <div id="ingGroups"></div>
+  <div class="drawer-actions">
+    <button class="btn primary" id="applyBtn">Show results</button>
+    <button class="btn" id="resetBtn">Reset all</button>
+  </div>
+</div>
+
+<main>
+  <div id="count"></div>
+  <div id="cards"></div>
+  <div id="empty">No dish matches. Loosen a filter or clear the search.</div>
+  <div id="error">
+    <b>Couldn’t load <code>data/dishes.json</code>.</b><br><br>
+    If you opened this file directly (<code>file://</code>), browsers block local
+    fetch — serve the folder instead:<br><br>
+    <code>python3 -m http.server</code> → <code>http://localhost:8000</code>
+  </div>
+</main>
+
+<div id="overlay">
+  <div class="ov-inner">
+    <div class="ov-top"><button class="ov-close" id="ovClose" aria-label="Close">✕</button></div>
+    <div class="ov-body" id="ovBody"></div>
+  </div>
+</div>
+
+<footer>
+  Personal reference tool — not a restaurant guide.<br>
+  Contains material derived from Wikipedia, licensed
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>:
+  <a href="https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes">List of Vietnamese dishes</a> ·
+  <a href="https://en.wikipedia.org/wiki/List_of_Vietnamese_culinary_specialities">List of Vietnamese culinary specialities</a>.<br>
+  Images are cached copies of Wikimedia Commons files; each retains its own licence.
+</footer>
+
+<script src="static/app.js"></script>
+</body>
+</html>

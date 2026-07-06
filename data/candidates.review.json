@@ -1,0 +1,754 @@
+{
+ "attribution": "Contains material derived from Wikipedia, licensed CC BY-SA 4.0: https://en.wikipedia.org/wiki/List_of_Vietnamese_dishes and https://en.wikipedia.org/wiki/List_of_Vietnamese_culinary_specialities",
+ "candidates": [
+  {
+   "name": "Bánh tằm cà ri",
+   "desc": "Spicy chicken curry over special rice noodles",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/B%C3%A1nh_t%E1%BA%B1m_c%C3%A0_ri.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bún bung",
+   "desc": "Rice vermicelli cooked with pork ribs and \"dọc mùng\"",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/B%C3%BAn_m%E1%BB%8Dc_s%C6%B0%E1%BB%9Dn.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Chạo tôm",
+   "desc": "Barbecued shrimp paste/mousse on a sugar cane stick",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ch%E1%BA%A1o_t%C3%B4m.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bún mọc",
+   "desc": "Rice vermicelli with sprouted broth",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bun_Moc_Ha_Noi.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bún măng vịt",
+   "desc": "Bamboo shoots and duck noodle soup. [ 3 ]",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/B%C3%BAn_m%C4%83ng_th%E1%BB%8Bt_v%E1%BB%8Bt.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bún ốc",
+   "desc": "Noodles with snails",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/B%C3%BAn_%E1%BB%91c.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bún thang",
+   "desc": "Rice vermicelli served with broth and various other ingredients – laksa leaves, Chinese coriander, thin fried chicken eggs, shredded chicken breast, and thinly sliced pork rolls",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/B%C3%BAn_thang.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cellophane noodles miến , bún tàu , bún tào",
+   "desc": "Transparent noodle made from starch and water, generally sold in dried form, soaked to reconstitute, then used in soups, stir-fried dishes, or spring rolls.",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dongfen.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Mì or Súp mì",
+   "desc": "Vietnamese/Chinese noodle soup with yellow wheat noodles brought over by Chinese immigrants.",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Spicy_noodle_soup_with_beef%2C_Festival_des_P%C3%A2tes%2C_Paris_001.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Miến lươn",
+   "desc": "Northern Vietnam , North Central Coast ( Nghệ An )",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mien_luon_Hang_Dieu.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Miến trộn",
+   "desc": "Stir-fried rice vermicelli mixed with shrimp or crab, seasoned with sweet and spicy spices",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mi%E1%BA%BFn_cua.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rice vermicelli bún",
+   "desc": "A type of rice noodles",
+   "region": "Noodle dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rice_vermicelli.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh cam",
+   "desc": "Deep-fried glutinous rice sesame balls filled with sweetened mung bean paste; from southern Vietnam",
+   "region": "Dumplings",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Banhran.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh khúc",
+   "desc": "Glutinous rice ball filled with mung bean and fatty pork",
+   "region": "Dumplings",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/B%C3%A1nh_kh%C3%BAc.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh phu thê",
+   "desc": "Literally \"husband and wife cake\"; a sweet cake made of rice or tapioca flour and gelatin, filled with mung bean paste; also spelled bánh xu xê (su sê)",
+   "region": "Dumplings",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/B%C3%A1nh_phu_th%C3%AA.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh phu thê bột bán",
+   "desc": "Husband and wife cakes made with tapioca pearls",
+   "region": "Dumplings",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh rán",
+   "desc": "Deep-fried glutinous rice sesame balls filled with sweetened mung bean paste; from northern Vietnam [ 2 ] [ 7 ]",
+   "region": "Dumplings",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Banhran.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tẻ",
+   "desc": "Small steamed rice cake wrapped with leaves of some local trees into a long, thin cylindrical shape, and boiled thoroughly.",
+   "region": "Dumplings",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Banh_te_My_Duc.png",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh đúc",
+   "desc": "Rice cake or corn cake eaten as a dessert or savory meal",
+   "region": "Pancakes and sandwiches",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Banhduc.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh rế",
+   "desc": "Bình Thuận Province",
+   "region": "Pancakes and sandwiches",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/B%C3%A1nh_r%E1%BA%BF.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh cống",
+   "desc": "Minced pork mixed with tapioca root and whole green beans, served with a circled shrimp on top.",
+   "region": "Pancakes and sandwiches",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/B%C3%A1nh_c%E1%BB%91ng_de_C%E1%BA%A7n_Th%C6%A1.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh quai vạc",
+   "desc": "Made from tapioca starch, filled with shrimp and meat inside.",
+   "region": "Pancakes and sandwiches",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/HK_Tsuen_Wan_%E5%BB%BA%E6%98%8E%E8%A1%97_Kin_Ming_Street_sign_Cheong_Wah_Building_Tasty_Bakery_08_chinese_cookies_%E6%B2%B9%E7%82%B8%E8%A7%92%E4%BB%94_Cantonese_Peanut_puffs_Kok_Chai_a.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tai",
+   "desc": "Made from plain rice flour, pork and some other spices.",
+   "region": "Pancakes and sandwiches",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tai heo",
+   "desc": "Made from flour, granulated sugar, white sesame, condensed milk, eggs, butter, vanilla, cooking oil, salt, water... and processed by deep frying.",
+   "region": "Pancakes and sandwiches",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/2/26/B%C3%A1nh_tai_heo_trong_khay_m%E1%BB%A9t_ng%C3%A0y_t%E1%BA%BFt.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tôm",
+   "desc": "Shrimp patties [ 2 ]",
+   "region": "Rolls, salads, and rice papers",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/B%C3%A1nh_t%C3%B4m.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tôm Hồ Tây",
+   "desc": "A shrimp patty specialty originating from the area around West Lake ( Tây Hồ ), Hanoi",
+   "region": "Rolls, salads, and rice papers",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Chả giò or Nem rán",
+   "desc": "Fried pork spring rolls",
+   "region": "Rolls, salads, and rice papers",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cha_Gio.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Gỏi cá trích",
+   "desc": "Raw herring salad",
+   "region": "Rolls, salads, and rice papers",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/G%E1%BB%8Fi_C%C3%A1_Tr%C3%ADch.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Món cuốn",
+   "desc": "Roll which includes a variety of ingredients rolled in rice paper (bánh tráng)",
+   "region": "Rolls, salads, and rice papers",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cu%E1%BB%91n_nem_r%C3%A1n_%28%C4%91a_nem%29_1.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cơm nắm",
+   "desc": "Northern Vietnam",
+   "region": "Cơm (non-glutinous rice dishes)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rice_balls_to_freeze.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cơm rượu",
+   "desc": "Dessert from Southern Vietnam, made from glutinous rice",
+   "region": "Cơm (non-glutinous rice dishes)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Comruou.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cơm cháy",
+   "desc": "Crispy golden brown rice at the bottom of the cooking pot – which is then left dried in natural sunlight for 2–3 days",
+   "region": "Cơm (non-glutinous rice dishes)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/C%C6%A1m_ch%C3%A1y_Ninh_B%C3%ACnh.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cơm gà Quảng Nam",
+   "desc": "Cooked rice served with boiled chicken and sprinkled with chicken broth",
+   "region": "Cơm (non-glutinous rice dishes)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/C%C6%A1m_g%C3%A0_Tam_K%E1%BB%B3%2C_Qu%E1%BA%A3ng_Nam.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cơm lam",
+   "desc": "Glutinous rice and other ingredients placed in bamboo tubes and cooked on fire",
+   "region": "Cơm (non-glutinous rice dishes)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/C%C6%A1m_lam_T%C3%A2y_Nguy%C3%AAn.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Oản",
+   "desc": "White sticky rice, granulated sugar or cake flour formed into a truncated pyramid shape – used as an offering in Buddhist temples.",
+   "region": "Xôi (glutinous rice dishes)",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bird's nest soup súp yến sào",
+   "desc": "Bird's nest soup",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bird%27s_Nest_soup.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Canh chua",
+   "desc": "Hot and sour soup",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Canhchua1.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Canh khoai mỡ",
+   "desc": "Purple yam soup",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Canh_Khoai_M%E1%BB%A1.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Khổ qua nhồi thịt",
+   "desc": "Bitter gourd stuffed with meat, then bundled with scallions and cooked in bone broth",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Canh_kh%E1%BB%95_qua.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Ốc nấu chuối đậu",
+   "desc": "A rustic but quite sophisticated dish that consists of boiled snails cooked with green bananas, fried beans, bacon, adorned with guise leaves and perilla",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Chu%E1%BB%91i_%E1%BB%91c_%C4%91%E1%BA%ADu.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Congee cháo",
+   "desc": "Rice porridge",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Chinese_rice_congee.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Súp măng cua",
+   "desc": "Asparagus-crab combination soup",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/S%C3%BAp_cua.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bò kho",
+   "desc": "Beef and vegetable stew [ 1 ]",
+   "region": "Soups, stews and cháo (congees)",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kho.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh chưng",
+   "desc": "Square-shaped steamed glutinous rice dumpling wrapped in a Phrynium placentarium leaf ( lá dong ) [ 2 ] The dish is a traditionally served around Vietnamese New Year to be eaten with pickled leeks",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/B%C3%A1nh_ch%C6%B0ng.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh giầy",
+   "desc": "White, flat, and round glutinous rice cake, wrapped in cut pieces of banana leaves, and usually served with a type of Vietnamese sausage chả lụa",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/B%C3%A1nh_gi%E1%BA%A7y_gi%C3%B2_2.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh đa nướng",
+   "desc": "Called Bánh tráng nướng in the South, large round flat rice crackers",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/1d/B%C3%A1nh_%C4%91a_n%C6%B0%E1%BB%9Bng.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh gối",
+   "desc": "Deep fried pastry stuffed with cellophane noodles , minced pork, cloud ear fungus and thin slices of chinese sausage [ 7 ]",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Banh_goi_03.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh lá",
+   "desc": "Parcel of a variety of rice stuffed with some fillings and wrapped in a leaf or leaves.",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Banhit.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Black pudding dồi tiết' (Northern) or dồi huyết (Southern)",
+   "desc": "Blood sausage",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/D%E1%BB%93i.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bò 7 món",
+   "desc": "7 courses of beef",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/B%C3%B2_7_m%C3%B3n.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Cassava-based dishes",
+   "desc": "",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Giò lụa",
+   "desc": "A pork sausage, similar to Bologna sausage",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Chalua.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Lò trấu",
+   "desc": "Fixed Rice Husk Stove",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lo_trau.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Ô mai",
+   "desc": "Snack made from salted dried apricot or sugared dried apricot",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/O_mai_mo.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Ốc bươu nhồi thịt",
+   "desc": "Minced snail mixed with ground pork, carrot, black mushroom stuffed in snail shell",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%E1%BB%90c_b%C6%B0%C6%A1u_nh%E1%BB%93i_th%E1%BB%8Bt.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rousong chà bông",
+   "desc": "Meat floss",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Comchienchabong.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bò nướng lá lốt",
+   "desc": "Ground beef wrapped in lolot (NEVER grape leaves)",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Banh_Hoi_Bo_La_Lot.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Tiết canh",
+   "desc": "Fresh animal blood mixed with fish sauce/ light salted water – used with chopped meat and animal cartilage",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ti%E1%BA%BFt_canh.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "You tiao quẩy",
+   "desc": "A long, golden-brown, deep fried strip of dough",
+   "region": "Other dishes",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Qu%E1%BA%A9y.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh rế",
+   "desc": "Bánh rế is a Vietnamese street food made from sweet potatoes. The sweet potato is made into a pancake, deep-fried, then sugared.",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/B%C3%A1nh_r%E1%BA%BF.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh cáy",
+   "desc": "Rectangular-shaped sweet dessert made by roasting and grinding glutinous rice and other ingredients",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/B%C3%A1nh_c%C3%A1y.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh da lợn",
+   "desc": "Colored steamed layer cake made from tapioca starch, rice flour, coconut milk, water, sugar, and other ingredients",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/B%C3%A1nh_da_l%E1%BB%A3n_s%E1%BA%A7u_ri%C3%AAng.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh chuối",
+   "desc": "Banana cake [ 7 ]",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Best_banana_pancake_Hoi_An%2C_Vietnam.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh cốm",
+   "desc": "Made from cốm , green bean paste, grated coconut and pumpkin jam or naked lotus jam. Often used for engagement ceremonies",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Banh_com.png",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh đậu xanh",
+   "desc": "Made from ground mung bean paste with sugar and vegetable oil or animal fat",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/B%C3%A1nh_%C4%91%E1%BA%ADu_xanh.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh gai",
+   "desc": "The crust is made up of glutinous rice flour and hemp leaves; the filling is of finely chopped lard, banana essential oil, coconut rice, and cooked green beans",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Banh_gai_3.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tro",
+   "desc": "Leaves are burned into ashes and then soaked with glutinous rice to create a golden brown color like amber. Served with sugar or honey/ molasses.",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/B%C3%A1nh_tro_m%E1%BA%ADt_m%C3%ADa.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh in",
+   "desc": "A Vietnamese cake from the Huế, often sold in small rectangular shaped snack packs. The main ingredients include mung bean, rice flour and durian",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/50/B%C3%A1nh_in_nh%C3%A2n_s%E1%BA%A7u_ri%C3%AAng.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh kẹp lá dứa",
+   "desc": "Pandan and coconut flavored waffle eaten plain",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pandan_waffle.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh khảo",
+   "desc": "Glutinous flour roasted with sugar, filled with pumpkin jam and fat",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/B%C3%A1nh_kh%E1%BA%A3o.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh lọt",
+   "desc": "Made from rice flour and tapioca starch with the aroma of coconut milk, sugar, and the green and white color of pandan leaves",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chendol_at_Cendol_Melaka%2C_Changi_Village.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh mật",
+   "desc": "Made from glutinous rice flour mixed with mung bean molasses, and wrapped in banana leaves",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/B%C3%A1nh_m%E1%BA%ADt01.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh nhãn",
+   "desc": "Made from fragrant glutinous rice or Hai Hau yellow sticky rice, chicken eggs, white sugar and lard",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Banh_nhan.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh pía",
+   "desc": "Teochew-style with durian",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/B%C3%A1nh_p%C3%ADa.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tét",
+   "desc": "Log-shaped cylindrical glutinous rice cake, wrapped in a banana leaf and filled with a meat or vegetarian filling",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Banhtet.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh tiêu",
+   "desc": "Hollow doughnuts",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/B%C3%A1nh_ti%C3%AAu.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh trung thu",
+   "desc": "Mooncake [ 2 ]",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/B%C3%A1nh_trung_thu.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Chuối chiên",
+   "desc": "Banana fried in a batter",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Chu%E1%BB%91i_chi%C3%AAn.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Coconut candy kẹo dừa",
+   "desc": "Candy made with coconut milk and coconut cream",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cononut_candy.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Grass jelly thạch sương sáo",
+   "desc": "Made by boiling the aged and slightly oxidized stalks and leaves of Mesona chinensis (member of the mint family) with potassium carbonate for several hours with a little starch and then cooling the liquid to a jelly-like consistency",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GrassJellyBlocks.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Mè xửng Huế",
+   "desc": "A chewy candy originally from the city of Huế, made with boiled down cane sugar, (into a soft and thick solid), coated with sesame seeds, and usually containing peanuts.",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Caramelo_de_mango_con_s%C3%A9samo_y_man%C3%AD_%C2%B7_Vietnam.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bánh trôi",
+   "desc": "Boiled Glutinous rice balls – also called bánh chay; literally \"floating cake\") – served together with bánh chay [ 12 ]",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Banhtroi.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Thạch rau câu or sương sa",
+   "desc": "Gelatin dessert",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/M%C3%B3n_ch%C3%A8_%C4%91%C3%B4ng_s%C6%B0%C6%A1ng_th%E1%BA%A1ch_d%E1%BB%ABa_rau_c%C3%A2u_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2016.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rượu nếp",
+   "desc": "Sweet dessert made from black glutinous rice.",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ruou_de.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Sâm bổ lượng",
+   "desc": "Sweet, cold soup",
+   "region": "Sweet cakes and desserts",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/S%C3%A2m_b%E1%BB%95_l%C6%B0%E1%BB%A3ng.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Fish sauce nước mắm",
+   "desc": "A base condiment that is derived from fish that have been allowed to ferment. It is normally used as seasoning during cooking or a base for sauces with other ingredients and is not to be used by itself.",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/N%C6%B0%E1%BB%9Bc_ch%E1%BA%A5m.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Hoisin sauce tương đen",
+   "desc": "A popular condiment for phở in Ho Chi Minh City",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hoisin_sauce_1.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Muối ớt rau răm",
+   "desc": "Dipping sauce made with Vietnamese coriander , bird's eye chilis , lime, and other ingredients. Used as a dipping sauce for meats or trứng vịt lộn .",
+   "region": "Condiments and sauces",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Muối ớt xanh",
+   "desc": "Dipping sauce with green bird's eye chilis and kaffir lime leaves as main ingredients. Usually served with seafood.",
+   "region": "Condiments and sauces",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Nước chấm",
+   "desc": "Dipping sauce with fish sauce, water, sugar, lime and sometimes chilis and ginger.",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chanhmuoiglass.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Sa tế",
+   "desc": "Chợ Lớn, Ho Chi Minh City , Southern Vietnam",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Closeup_of_chili_sauce_for_Bun_Bo_Hue.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Shrimp paste mắm tôm",
+   "desc": "Shrimp paste",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/M%E1%BA%AFm_t%C3%B4m.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Soy sauce xì dầu or nước tương",
+   "desc": "Condiment produced from fermented soybeans",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bouteille-siaw.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Tương",
+   "desc": "Condiments made from fermented bean paste",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Fermented_bean_paste.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Tương ớt",
+   "desc": "Hot/chili sauce that varies in different regions.",
+   "region": "Condiments and sauces",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/T%C6%B0%C6%A1ng_%E1%BB%9Bt_nh%C3%A0_l%C3%A0m_2018_%282%29.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Bia hơi",
+   "desc": "Fresh beer",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bia_hoi.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Chanh muối",
+   "desc": "Salty limeade [ 12 ]",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chanhmuoiglass.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Nước sắn dây hoa bưởi",
+   "desc": "Made of kudzu and pomelo flower extract.",
+   "region": "Beverages",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rau má",
+   "desc": "Iced pennywort juice often sweetened",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nam_bai_bua_bok.JPG",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rượu cần",
+   "desc": "Tây Nguyên and Tây Bắc",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ruou_can_for_sale.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rượu đế",
+   "desc": "Mekong Delta",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Khap_ruou.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Rượu thuốc",
+   "desc": "Medicinal liquor",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ruou_thuoc_1.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Snake wine rượu rắn",
+   "desc": "An alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Snakewine.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Egg soda soda sữa hột gà",
+   "desc": "Iced soda with egg, sugar and milk",
+   "region": "Beverages",
+   "img": null,
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Soy milk sữa đậu nành",
+   "desc": "Beverage made from soybeans",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Soy_milk.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Vietnamese tea trà Việt",
+   "desc": "Green tea , similar to Keemun and Yunnan , but more sweet",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fresh_green_tea_bowl_Vietnam.jpg",
+   "source_page": "List of Vietnamese dishes"
+  },
+  {
+   "name": "Vietnamese wine",
+   "desc": "Wine produced in Vietnam",
+   "region": "Beverages",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vietnamese_wine-01_%281%29.jpg",
+   "source_page": "List of Vietnamese dishes"
+  }
+ ]
+}

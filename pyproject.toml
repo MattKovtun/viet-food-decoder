@@ -1,0 +1,20 @@
+[project]
+name = "viet-food-decoder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "requests>=2.34.2",
+    "edge-tts>=7.2.8",
+]
+
+# `src` is a plain package imported as `src.*` from the repo root (not a src-layout);
+# without this the IDE type checker infers src/ itself as the import root.
+# Both spellings kept: ty renamed src.root -> environment.root across versions.
+[tool.ty.environment]
+root = ["."]
+
+[tool.ty.src]
+root = "."

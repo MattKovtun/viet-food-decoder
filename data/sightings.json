@@ -1,0 +1,47 @@
+{
+ "_doc": "Street-sighting inbox. Owner drops raw menu strings here (or just tells Claude in chat); each gets triaged per the workflow in CLAUDE.md. status: open | covered | alias-added | variant-added | promoted | rejected.",
+ "sightings": [
+  {
+   "name": "bánh bèo",
+   "seen": "street, Da Nang",
+   "date": "2026-07-06",
+   "status": "covered",
+   "note": "already in dataset as banh-beo; searchable with or without diacritics"
+  },
+  {
+   "name": "trộn lộn xộn",
+   "seen": "small local shop near owner's home, Da Nang",
+   "date": "2026-07-06",
+   "status": "open",
+   "note": "'lộn xộn' = jumbled/messy; almost certainly a local 'trộn' family snack (tossed mix). Hypothesis: house-mix cousin of bánh tráng trộn / mít trộn. NEEDS OWNER INTEL: what's actually in the cup/bag (rice paper? green mango? jackfruit? jerky? quail egg?), price, how it's served. If contents ≈ bánh tráng trộn -> aka; if distinct mix -> own entry."
+  },
+  {
+   "name": "gan bu um (owner's spelling)",
+   "seen": "street, Da Nang",
+   "date": "2026-07-06",
+   "status": "open",
+   "note": "Doesn't decode cleanly. Candidates: (1) 'gân bò um' — braised beef tendon, quán nhậu dish; (2) 'gà ủ muối' — salt-rested chicken, the booming takeaway-shop genre; (3) 'gà um …' — central braised chicken. NEEDS: photo of the sign / shop type / braised vs whole-roasted."
+  },
+  {
+   "name": "trà gừng",
+   "seen": "street menus, Da Nang",
+   "date": "2026-07-06",
+   "status": "promoted",
+   "note": "promoted: tra-gung entry"
+  },
+  {
+   "name": "trà sen kem mặn",
+   "seen": "street menus, Da Nang",
+   "date": "2026-07-06",
+   "status": "variant-added",
+   "note": "variant-added: on tra-sen (salted-cream café build)"
+  },
+  {
+   "name": "trà đào đặc biệt",
+   "seen": "street menus, Da Nang",
+   "date": "2026-07-06",
+   "status": "variant-added",
+   "note": "variant-added: on tra-dao ('đặc biệt' = each shop's house mix)"
+  }
+ ]
+}
