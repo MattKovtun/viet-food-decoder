@@ -58,7 +58,7 @@ tests/test_parser.py       # fixture test: run `.venv/bin/python -m tests.test_p
 ## Commands
 
 ```bash
-.venv/bin/pip install -r requirements.txt
+uv venv && uv pip install -r requirements.txt
 .venv/bin/python main.py validate    # schema-check dishes.json — run after ANY data edit
 .venv/bin/python main.py fetch       # needs internet: pulls the two Wikipedia list pages
 .venv/bin/python main.py merge       # fills images; prints matched/images_filled/new_candidates
@@ -153,6 +153,7 @@ Done:
 Next (in order):
 1. Work the intake system: `data/sightings.json` (street inbox) + `data/coverage.todo.md`
    (triaged 107-stub backlog, Tier A first). Promote in small batches; re-run `validate`.
-2. GitHub Pages deploy (repo root). Footer attribution already in place.
+2. GitHub Pages deploy: workflow in place (`.github/workflows/pages.yml`, publishes repo
+   root on push to main); owner must enable Pages → Source: GitHub Actions in repo settings.
 3. Later: own-photo workflow (photos committed to repo, `srcs` gains "own-photo");
    gap-check dish list by eye against TasteAtlas names (facts only).

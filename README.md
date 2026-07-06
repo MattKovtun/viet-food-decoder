@@ -37,8 +37,8 @@ not a product — but if it helps you order the right bowl, great.
 ## Setup
 
 ```bash
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
+uv venv
+uv pip install -r requirements.txt
 ```
 
 ## Pipeline
@@ -65,7 +65,12 @@ served over HTTP (opening it as `file://` blocks the fetch):
 .venv/bin/python -m http.server        # then open http://localhost:8000
 ```
 
-On GitHub Pages, serve the repo root — no build step. Deep links work: `index.html#mi-quang`
+Alternatively, in VS Code the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+extension works too — "Go Live" on the repo root and it serves `index.html` with auto-reload.
+
+Deployment is handled by GitHub Actions (`.github/workflows/pages.yml`): every push to
+`main` publishes the repo root to GitHub Pages — no build step. One-time setup: in the
+repo settings, set **Pages → Source → GitHub Actions**. Deep links work: `index.html#mi-quang`
 opens that dish directly.
 
 Images are served from the repo (`img/`, cached by `cache-images`), so the site works
@@ -93,6 +98,7 @@ dishes, re-run `gen-audio`.
 
 1. Work through `data/coverage.todo.md` (triaged backlog of 107 Wikipedia candidates) and
    `data/sightings.json` (street-sighting inbox) — promote in small batches, re-run `validate`.
-2. GitHub Pages deploy (repo root). The CC BY-SA attribution is already in the page footer.
+2. Enable GitHub Pages (Settings → Pages → Source: GitHub Actions) — the deploy workflow
+   is in place. The CC BY-SA attribution is already in the page footer.
 3. Later: own-photo workflow (`srcs` gains `own-photo`); gap-check dish list against
    TasteAtlas names (facts only, no scraping).
